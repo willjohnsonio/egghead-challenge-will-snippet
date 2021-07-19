@@ -2,4 +2,4 @@
 
 [Click here]() to view community challenge
 
-This is just an example for partipants to see how ro share a VS Code Snippet. 
+This is just an example for partipants to see how to share a VS Code Snippet. 
